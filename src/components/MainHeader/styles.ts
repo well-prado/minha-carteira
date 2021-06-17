@@ -10,9 +10,9 @@ export const Container = styled.div`
 
   align-items: center;
 
-  padding: 0 100px;
+  padding: 0 20px;
 
-  border-bottom: 1 px solid ${props => props.theme.colors.gray};
+  border-bottom: 1px solid ${props => props.theme.colors.gray};
 `;
 
 export const Profile = styled.div`
